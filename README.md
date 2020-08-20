@@ -23,3 +23,14 @@ This app helps me to identify those cryptocurrencies which are of interest to me
 ## Sketch of Mobile Layout vs Desktop Layout
 
 ![proposalSketch](proposalSketch.jpg)
+<hr>
+<hr>
+
+
+
+## Preview of columns and data. (A semi-completed view of what the app could look like)
+
+
+![tableData](previewOfTableData.png)
+
+
