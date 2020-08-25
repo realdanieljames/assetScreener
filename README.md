@@ -22,7 +22,7 @@ This app helps me to identify those cryptocurrencies which are of interest to me
 
 ## Sketch of Mobile Layout vs Desktop Layout
 
-![proposalSketch](proposalSketch.jpg)
+![proposalSketch](./images/proposalSketch.jpg)
 <hr>
 <hr>
 
@@ -31,6 +31,14 @@ This app helps me to identify those cryptocurrencies which are of interest to me
 ## Preview of columns and data. (A semi-completed view of what the app could look like)
 
 
-![tableData](previewOfTableData.png)
+![tableData](./images/previewOfTableData.png)
 
 
+<hr>
+<hr>
+<hr>
+<hr>
+
+ # Tools used to accomplish app
+
+AJAX 
